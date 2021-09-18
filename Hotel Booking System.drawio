@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T13:36:00.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="K4wgwHRhC0ropeqV6QT7" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T13:42:39.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="amKcMeBa7w0Db5PeNv6U" version="15.2.9" type="github">
   <diagram id="zUGs8ufhJ1-aJHWjKCEB" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,11 +177,48 @@
             <mxPoint x="560" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F2F2F2;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-18" target="tloIfobRMzkBjc_ddzLI-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tloIfobRMzkBjc_ddzLI-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F2F2F2;startArrow=none;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-31" target="tloIfobRMzkBjc_ddzLI-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F2F2F2;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-22" target="tloIfobRMzkBjc_ddzLI-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tloIfobRMzkBjc_ddzLI-22" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Casandra" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="735" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F2F2F2;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-24" target="tloIfobRMzkBjc_ddzLI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-24" value="View Booking&lt;br&gt;(Customer/&lt;br&gt;Manager)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F2F2F2;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-25" target="tloIfobRMzkBjc_ddzLI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#F2F2F2;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-25" target="tloIfobRMzkBjc_ddzLI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-25" value="L&lt;br&gt;B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FAFAFA;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-31" value="Hotel Booking Management &lt;br&gt;Serivce" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
