@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T13:52:16.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="lh0vLciqSGkRjsfvkJQ1" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T14:04:34.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Ql_tR8OhPKlPiXHaV6hA" version="15.2.9" type="github">
   <diagram id="zUGs8ufhJ1-aJHWjKCEB" name="Page-1">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,11 +243,29 @@
         <mxCell id="tloIfobRMzkBjc_ddzLI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#F2F2F2;" edge="1" parent="1" source="tloIfobRMzkBjc_ddzLI-38" target="tloIfobRMzkBjc_ddzLI-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tloIfobRMzkBjc_ddzLI-38" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Aparch Spark&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Streaming Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+        <mxCell id="tloIfobRMzkBjc_ddzLI-38" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Aparch Spark&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Streaming Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
           <mxGeometry x="890" y="480" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tloIfobRMzkBjc_ddzLI-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Hadoop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="tloIfobRMzkBjc_ddzLI-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Hadoop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="920" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://plugins.jetbrains.com/files/12820/106974/icon/pluginIcon.svg;" vertex="1" parent="1">
+          <mxGeometry x="509" y="450" width="46.53" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="700" y="447.5" width="67.24" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="981.54" y="190" width="36.92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="917" y="500" width="77.04" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://assets.stickpng.com/images/58480813cef1014c0b5e48e2.png;" vertex="1" parent="1">
+          <mxGeometry x="941" y="597.5" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tloIfobRMzkBjc_ddzLI-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="225" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
