@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T08:27:11.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nkzaMolPnl7zSs3t0bLN" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T08:34:22.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dczAXXDg8h9kMbpWoBLF" version="20.8.13" type="github">
   <diagram id="rFeODckSu-qoI8IxhJ4A" name="Page-1">
     <mxGraphModel dx="2205" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,6 +104,13 @@
         <mxCell id="sHhL3jPO2kCyQePRyJuF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHhL3jPO2kCyQePRyJuF-30" target="sHhL3jPO2kCyQePRyJuF-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sHhL3jPO2kCyQePRyJuF-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHhL3jPO2kCyQePRyJuF-30" target="sHhL3jPO2kCyQePRyJuF-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sHhL3jPO2kCyQePRyJuF-30" value="Video Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-120" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -140,9 +147,6 @@
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sHhL3jPO2kCyQePRyJuF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHhL3jPO2kCyQePRyJuF-60" target="sHhL3jPO2kCyQePRyJuF-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sHhL3jPO2kCyQePRyJuF-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHhL3jPO2kCyQePRyJuF-60" target="sHhL3jPO2kCyQePRyJuF-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sHhL3jPO2kCyQePRyJuF-60" value="Video Processing Worker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
